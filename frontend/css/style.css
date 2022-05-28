@@ -1,17 +1,17 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap&family=Press+Start+2P');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Source Code Pro";
-  --font-secondary: "Source Code Pro";
-  --font-code: "Source Code Pro";
+  --font-primary: "Press Start 2P";
+  --font-secondary: "Press Start 2P";
+  --font-code: "Press Start 2P";
   --bg-color: #ffffff;
-  --bg-color-transparent: #ffffff86;
-  --font-color: #1d1c1c;
-  --btn-bg-color: #00fff2;
+  --bg-color-transparent: #ffffff88;
+  --font-color: #1a1a1a;
+  --btn-bg-color: #1a1a1a;
   --accent-color: #ee0e91;
   --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 0px;
@@ -78,7 +78,7 @@ header .container {
 }
 
 .not-connected h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 0px 0px 0 var(--accent-color);
   font-style: normal;
   margin: 2rem 0;
   font-size: 3.5rem;
