@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Libre+Barcode+39&family=Special+Elite&family=UnifrakturCook&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Press+Start+2P&family=UnifrakturCook&family=VT323&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Unifraktur";
-  --font-secondary: "Unifraktur";
-  --font-code: "Unifraktur";
+  --font-primary: "UnifrakturCook";
+  --font-secondary: "UnifrakturCook";
+  --font-code: "UnifrakturCook";
   --bg-color: #ffffff;
   --bg-color-transparent: #ffffff88;
   --font-color: #1a1a1a;
