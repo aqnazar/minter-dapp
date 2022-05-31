@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "UnifrakturCook";
-  --font-secondary: "UnifrakturCook";
-  --font-code: "UnifrakturCook";
+  --font-primary: "Unifraktur";
+  --font-secondary: "Unifraktur";
+  --font-code: "Unifraktur";
   --bg-color: #ffffff;
   --bg-color-transparent: #ffffff88;
   --font-color: #1a1a1a;
