@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Press+Start+2P&family=UnifrakturCook&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "UnifrakturCook";
-  --font-secondary: "UnifrakturCook";
-  --font-code: "UnifrakturCook";
+  --font-primary: "Press Start 2P";
+  --font-secondary: "Press Start 2P";
+  --font-code: "Press Start 2P";
   --bg-color: #ffffff;
   --bg-color-transparent: #ffffff88;
   --font-color: #1a1a1a;
@@ -57,7 +57,7 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 0rem;
+  gap: rem;
   align-items: center;
 }
 
