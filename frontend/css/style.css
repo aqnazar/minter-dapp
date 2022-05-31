@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap&family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap&family=+Start+2P&family=DotGothic16&family=Libre+Barcode+39&family=Special+Elite&family=UnifrakturCook&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Press Start 2P";
-  --font-secondary: "Press Start 2P";
-  --font-code: "Press Start 2P";
+  --font-primary: "Unifraktur";
+  --font-secondary: "Unifraktur";
+  --font-code: "Unifraktur";
   --bg-color: #ffffff;
   --bg-color-transparent: #ffffff88;
   --font-color: #1a1a1a;
@@ -51,13 +51,13 @@ header {
 
 header .container {
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
 .menu {
   display: flex;
-  gap: 3rem;
+  gap: 0rem;
   align-items: center;
 }
 
