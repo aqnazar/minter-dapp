@@ -74,6 +74,8 @@ header .container {
   display: flex;
   gap: 3rem;
   align-items: center;
+  margin: auto;
+  border-radius: 10px;
 }
 
 /* NOT CONNECTED */
