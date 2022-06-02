@@ -45,6 +45,18 @@ body {
   overflow: hidden;
 }
 
+.gif {
+  border: #ff0066, 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content:space-between;
+  width: 70vw;
+  margin: auto;
+}
+
+.logo {
+  gap: 3rem;
+}
 /* HEADER */
 
 header {
@@ -398,13 +410,6 @@ section {
   display: none;
 }
 
-.gif {
-  border: #ff0066, 5px;
-  display: flex;
-  justify-content:space-between;
-  width: 70vw;
-  margin: auto;
-}
 
 img {
   display: block;
