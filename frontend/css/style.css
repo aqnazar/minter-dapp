@@ -397,3 +397,7 @@ section {
 .hidden {
   display: none;
 }
+
+.gif {
+  border: #ff0066, 5px;
+}
