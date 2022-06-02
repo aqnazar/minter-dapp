@@ -60,7 +60,7 @@ header .container {
 
 .menu {
   display: flex;
-  gap: rem;
+  gap: 3rem;
   align-items: center;
 }
 
