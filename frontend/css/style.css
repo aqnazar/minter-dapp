@@ -402,6 +402,7 @@ section {
   border: #ff0066, 5px;
   display: flex;
   justify-content:space-between;
+  width: 70vw;
 }
 
 img {
