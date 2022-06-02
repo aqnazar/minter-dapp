@@ -401,3 +401,8 @@ section {
 .gif {
   border: #ff0066, 5px;
 }
+
+img {
+  display: block;
+  margin: 10px;
+}
