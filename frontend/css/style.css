@@ -63,6 +63,7 @@ body {
 header {
   background-color: var(--font-color);
   box-shadow: var(--header-shadow);
+  border-radius: 10px;
 }
 
 header .container {
@@ -76,7 +77,7 @@ header .container {
   gap: 3rem;
   align-items: center;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 /* NOT CONNECTED */
