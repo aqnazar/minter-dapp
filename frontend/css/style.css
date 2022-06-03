@@ -33,6 +33,7 @@ body {
   height: 150vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  background-image: url( '/images/slider/bgimg.svg') ;
 }
 
 .container {
