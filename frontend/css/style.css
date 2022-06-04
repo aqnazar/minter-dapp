@@ -50,7 +50,7 @@ body {
 }
 
 .gif {
-  border: #ff0066, 5px;
+  border: #ff0066;
   border-radius: 5px;
   display: flex;
   justify-content:space-evenly;
@@ -58,6 +58,11 @@ body {
   margin: auto;
 }
 
+.pink {
+  border: #ff0066;
+  border-width: 5px;
+  border-radius: 4px;
+}
 
 /* HEADER */
 
@@ -169,6 +174,8 @@ header .container {
   opacity: 0;
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .show-card {
