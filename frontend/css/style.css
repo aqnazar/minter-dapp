@@ -42,7 +42,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 100%;
+  max-width: 960px;
   margin: auto auto;
   padding: 1rem 1rem;
   justify-content: center;
